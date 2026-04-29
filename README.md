@@ -2,7 +2,7 @@
    display: flex;
    justify-content: center;
    gap: 30px;
-   position: relactive;
+   position: relative;
 }
 .no-wrapper{
     position:relative;
